@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 About Me
+
+Hello, I’m **Pushpa**, a **BTech Computer Science Engineering undergraduate** with a strong focus on learning, self-improvement, and building a meaningful career.
+
+I approach my journey with a practical mindset — understanding what is required, learning it properly, and improving step by step. I believe **consistency, discipline, and clarity** matter more than shortcuts. While my academic background is in computer science, I also place high importance on **communication, responsibility, and problem-solving**, as these skills are essential in any professional environment.
+
+I am someone who takes ownership of my work and values reliability. I enjoy organizing tasks, supporting others, and learning new skills that help me grow both personally and professionally. Alongside academics, creative activities like **mehndi art and cooking** help me stay focused, patient, and balanced.
+
+My long-term goal is to build a stable career, support my family, and contribute positively to society. I am continuously working on improving my **technical foundation, confidence, and professional skills** as I prepare for future opportunities.
+
+This GitHub reflects my learning journey and my commitment to steady growth.
 
 <!--
 **pushpa-tech/pushpa-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
